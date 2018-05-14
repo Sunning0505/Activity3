@@ -1,5 +1,5 @@
 # ActivityLifeCycle
-## Activity的生命周期
+## 安卓第二次实验之Activity的生命周期
 
 通过启动活动来体验 activity 的生命周期。
 
